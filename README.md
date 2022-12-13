@@ -1,2 +1,2 @@
 # ChallengeTwoAssign
-This is the repository for challengetwo
+This is the repository for challenge two
